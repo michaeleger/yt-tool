@@ -1,0 +1,8 @@
+{
+  "expected_channel_id": "",
+  "client_secret_path": "~/path/to/client_secret.json",
+  "creds_dir": "~/.yt_creds",
+  "writeup_home_urls": ["https://www.eagertobehealthy.com"],
+  "support_url": "https://www.eagertobehealthy.com/support",
+  "flag_patterns": ["riverside\\.(com|fm)"]
+}
